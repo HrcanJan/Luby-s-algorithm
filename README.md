@@ -25,5 +25,5 @@ Compilation time from process 2: 1.994 seconds
 Compilation time from process 3: 2.005 seconds
 ```
 
-![Graph](https://imgur.com/mGjNdBt)
-![Table](https://imgur.com/aDG19dq)
+![Graph](https://imgur.com/mGjNdBt.png)
+![Table](https://imgur.com/aDG19dq.png)
